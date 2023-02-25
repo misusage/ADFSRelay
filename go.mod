@@ -1,4 +1,4 @@
-module github.com/praetorian-inc/ADFSRelay
+module github.com/misusage/ADFSRelay
 
 go 1.17
 
